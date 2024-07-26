@@ -1,0 +1,23 @@
+
+.container{
+    width: 1260px;
+    height: 450px;
+    background: url(./unsplash_dcPThE8G59E.png);
+    text-align: center;
+    align-items: center;
+}
+
+h1{
+    color: aliceblue;
+    
+}
+
+p{
+    color: aliceblue;
+}
+
+button{
+    background-color: aliceblue;
+    color: black;
+    border-radius: 20px;
+}
